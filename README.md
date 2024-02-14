@@ -2,33 +2,34 @@
 
 Arquivo pdf em anexo a esse github
 
-Projeto de Caso de Uso: Monitoramento de Sentimento em Mídias Sociais com Azure AI Language Studio
+# Projeto de Caso de Uso: Bot de Atendimento para uma Loja com Azure AI Language Studio
 
 Descrição do Projeto:
-Você é parte de uma equipe de marketing de uma empresa de produtos eletrônicos. A empresa deseja monitorar o sentimento dos clientes em relação à marca e aos produtos nas redes sociais. Seu objetivo é criar um sistema automatizado que analise postagens e comentários em tempo real e classifique o sentimento como positivo, negativo ou neutro, utilizando exclusivamente o Azure AI Language Studio.
+Você é parte de uma equipe de atendimento ao cliente de uma loja de varejo. A loja deseja implementar um chatbot de atendimento para interagir com os clientes de forma automatizada, fornecendo informações sobre produtos, esclarecendo dúvidas e direcionando os usuários para os departamentos adequados.
 
-Tarefas do Projeto:
+## Tarefas do Projeto:
+Configuração do Chatbot:
+Utilize o Azure AI Language Studio para criar um chatbot que simule uma conversa humana.
+Configure o chatbot para responder a perguntas frequentes sobre produtos, horário de funcionamento da loja, localização, promoções, etc.
 
-# Coleta de Dados:
-Utilize APIs de mídias sociais (como Twitter, Facebook ou Instagram) ou um banco de dados padrão para coletar postagens relevantes relacionadas à marca e aos produtos.
-Armazene esses dados em um banco de dados ou em um serviço de armazenamento.
 
-# Pré-processamento de Texto:
-Limpe os dados coletados, removendo caracteres especiais, links e emojis.
-Tokenize o texto em palavras individuais.
-Realize a lematização ou stemming para normalizar as palavras.
+# Inteligência Artificial e Respostas Personalizadas:
+Explore as capacidades de processamento de linguagem natural (NLP) do Azure AI Language Studio.
+Crie respostas personalizadas com base nas palavras-chave dos clientes.
+O chatbot deve ser capaz de entender variações de perguntas e fornecer respostas relevantes.
 
-# Análise de Sentimento com Azure AI Language Studio:
-Utilize as capacidades de processamento de linguagem natural (NLP) do Azure AI Language Studio para analisar o sentimento das postagens.
-Classifique cada postagem como positiva, negativa ou neutra com base no conteúdo textual.
-Visualização dos Resultados:
-Crie gráficos ou painéis interativos para mostrar os resultados do monitoramento de sentimento.
-Destaque tendências ao longo do tempo e insights relevantes.
 
-# Alertas Automatizados:
-Configure alertas para notificar a equipe de marketing quando houver um aumento significativo em sentimentos negativos.
-Isso permitirá que a equipe tome medidas corretivas rapidamente.
+# Direcionamento para Departamentos Específicos:
+Implemente lógica para direcionar os clientes para os departamentos corretos.
+Por exemplo, se um cliente perguntar sobre devoluções, o chatbot deve encaminhá-lo ao setor de atendimento pós-venda.
 
-# Entregáveis:
-Código-fonte: Compartilhe o código do projeto configurado exclusivamente com o Azure AI Language Studio.
-Documentação: Forneça instruções detalhadas sobre como executar o projeto e interpretar os resultados.
+
+# Feedback e Melhorias Contínuas:
+Monitore as interações do chatbot com os clientes.
+Colete feedback dos usuários e identifique áreas de melhoria.
+Ajuste o chatbot conforme necessário para aprimorar a experiência do cliente.
+
+
+## Entregáveis:
+Chatbot Funcionando: Demonstre o chatbot em ação, respondendo a perguntas reais dos clientes.
+Documentação: Forneça instruções detalhadas sobre como configurar e manter o chatbot.
