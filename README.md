@@ -31,5 +31,4 @@ Isso permitirá que a equipe tome medidas corretivas rapidamente.
 
 # Entregáveis:
 Código-fonte: Compartilhe o código do projeto configurado exclusivamente com o Azure AI Language Studio.
-Apresentação: Prepare uma apresentação de slides ou um vídeo explicando o projeto e os resultados.
 Documentação: Forneça instruções detalhadas sobre como executar o projeto e interpretar os resultados.
